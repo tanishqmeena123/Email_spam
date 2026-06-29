@@ -16,7 +16,7 @@ An end-to-end Machine Learning and Natural Language Processing (NLP) project des
 Spam messages account for a significant portion of global email traffic, posing security risks and degrading the user experience. This project tackles the problem by building a robust text classifier. The primary goal was to maximize **Precision** to ensure that legitimate messages (Ham) are never accidentally sent to the spam folder (zero False Positives).
 
 ## 📊 Dataset
-The dataset used is `spam.csv`, which contains 5,572 SMS messages tagged according to being ham (legitimate) or spam.
+The dataset used is `spam.csv`, which contains 5,572 email messages tagged according to being ham (legitimate) or spam.
 
 * **Initial Shape:** `(5572, 5)`
 * **Encoding:** `latin-1`

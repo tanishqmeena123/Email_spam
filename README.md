@@ -35,7 +35,7 @@ The dataset used is `spam.csv`, which contains 5,572 SMS messages tagged accordi
 
 ### 2. Exploratory Data Analysis (EDA)
 * Analyzed the distribution of the target variable.
-* Investigated message length correlations (Spam messages tend to be significantly longer than Ham messages).
+* Investigated message length correlations (email messages tend to be significantly longer than Ham messages).
 * Generated Word Clouds to identify high-frequency words in both classes (e.g., "FREE", "WIN", "CALL" for spam).
 
 ### 3. Text Preprocessing (NLP)
@@ -79,6 +79,6 @@ The **Multinomial Naive Bayes** classifier was selected as the final model due t
 * **Machine Learning:** `scikit-learn`
 * **Environment:** Jupyter Notebook
 
----
+
 
 
